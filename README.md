@@ -2,7 +2,7 @@
 
 ## ICON TEMPLATES
 
-### [**> Download <**](https://github.com/GroundAura/Aura-Skyrim-Resources/releases/tag/Icon-v1.0.0)
+### [> Download <](https://github.com/GroundAura/Aura-Skyrim-Resources/releases/download/Icon-v1.0.0/Icon.Templates.zip)
 
 ### I4 SWF Templates
 
@@ -24,7 +24,7 @@ SVG for the first frame shape in an I4 icon SWF. Use this if you're making your 
 
 ## PLUGIN TEMPLATES
 
-### [**> Download <**](https://github.com/GroundAura/Aura-Skyrim-Resources/releases/tag/Plugin-v1.0.0)
+### [> Download <](https://github.com/GroundAura/Aura-Skyrim-Resources/releases/download/Plugin-v1.0.0/Plugin.Templates.zip)
 
 ### Empty Plugins
 
